@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 murmur3 = "0.5.2"
+sysinfo = "0.37.0"
 
 [lib]
 path="./src/lib.rs"
